@@ -27,7 +27,6 @@ Scanner scanner = new Scanner(System.in);
         int c = scanner.nextInt();
         System.out.println("podaj druga liczbe");
         int d =scanner.nextInt();
-
         System.out.println("suma liczb to: "+ suma(c,d));
 
 

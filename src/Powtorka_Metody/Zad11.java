@@ -8,15 +8,15 @@ public class Zad11 {
 
     public static int allDividers(int a) {
 
-        for (int i = 1; i <= a; i++)
+        for (int i = 1; i < a; i++) {
             if (a % i == 0)                         // f("%d) funkcja wydrukuj dzielniki
-                System.out.printf("%d ",i );
+                System.out.printf("%d ", i);
 
-        return a;
+        }  return a;
     }
 
     public static void main(String[] args) {
-        System.out.println(allDividers(21));
+        System.out.println(allDividers(40));
 
     }
 
