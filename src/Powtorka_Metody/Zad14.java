@@ -18,7 +18,6 @@ public class Zad14 {
     }
 
     public static void main(String[] args) {
-
-
+        System.out.println(isDivide(10000));
     }
 }

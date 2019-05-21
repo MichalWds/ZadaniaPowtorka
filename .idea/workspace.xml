@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4cba3fd-3ea7-4e8f-9034-02f2034714bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Codility/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/PowtorkaWszystkiego/Codility/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Powtorka_Instrukcje_Warunkowe/Zad17.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/PowtorkaWszystkiego/Powtorka_Metody/Zad1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PowtorkaWszystkiego/Powtorka_Metody/Zad1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PowtorkaWszystkiego/Powtorka_Metody/Zad14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PowtorkaWszystkiego/Powtorka_Metody/Zad14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Codility/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Codility/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Powtorka_Metody/Zad14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Powtorka_Metody/Zad14.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,89 +23,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Powtorka_Petle/Zad7.java">
+        <entry file="file://$PROJECT_DIR$/src/Powtorka_Instrukcje_Warunkowe/Zad1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Powtorka_Metody/Zad13.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-              <folding>
-                <element signature="e#447#448#0" expanded="true" />
-                <element signature="e#493#494#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Powtorka_Petle/Zad12.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Powtorka_Metody/Zad1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+            <state relative-caret-position="493">
+              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Codility/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Powtorka_Metody/Zad3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Powtorka_Metody/Zad10.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Powtorka_Metody/Zad4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Powtorka_Metody/Zad12.java">
+        <entry file="file://$PROJECT_DIR$/src/Powtorka_Instrukcje_Warunkowe/Zad17.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -121,8 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Powtorka_Instrukcje_Warunkowe/Zad10.java" />
-        <option value="$PROJECT_DIR$/src/Powtorka_Instrukcje_Warunkowe/Zad11.java" />
         <option value="$PROJECT_DIR$/src/Powtorka_Instrukcje_Warunkowe/Zad12.java" />
         <option value="$PROJECT_DIR$/src/Powtorka_Instrukcje_Warunkowe/Zad13.java" />
         <option value="$PROJECT_DIR$/src/Powtorka_Instrukcje_Warunkowe/Zad14.java" />
@@ -166,27 +98,30 @@
         <option value="$PROJECT_DIR$/src/Powtorka_Metody/Zad12.java" />
         <option value="$PROJECT_DIR$/src/Powtorka_Metody/Zad13.java" />
         <option value="$PROJECT_DIR$/src/Powtorka_Metody/Zad11.java" />
-        <option value="$PROJECT_DIR$/src/Powtorka_Metody/Zad14.java" />
         <option value="$PROJECT_DIR$/src/Powtorka_Metody/Zad15.java" />
         <option value="$PROJECT_DIR$/src/Powtorka_Metody/Zad16.java" />
         <option value="$PROJECT_DIR$/src/Powtorka_Petle/Zad9.java" />
         <option value="$PROJECT_DIR$/src/Powtorka_Metody/Zad1.java" />
         <option value="$PROJECT_DIR$/src/Codility/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Powtorka_Instrukcje_Warunkowe/zadanie.java" />
+        <option value="$PROJECT_DIR$/src/Powtorka_Metody/Zad14.java" />
+        <option value="$PROJECT_DIR$/src/Powtorka_Instrukcje_Warunkowe/Zad17.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="20" />
-    <option name="width" value="1440" />
-    <option name="height" value="875" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,6 +139,12 @@
               <item name="PowtorkaWszystkiego" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Codility" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PowtorkaWszystkiego" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PowtorkaWszystkiego" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Powtorka_Instrukcje_Warunkowe" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PowtorkaWszystkiego" type="b2602c69:ProjectViewProjectNode" />
@@ -261,13 +202,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Zad17">
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Codility.Solution" />
       <module name="PowtorkaWszystkiego" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Codility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zad14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Powtorka_Metody.Zad14" />
+      <module name="PowtorkaWszystkiego" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Powtorka_Metody.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Zad17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Powtorka_Instrukcje_Warunkowe.Zad17" />
+      <module name="PowtorkaWszystkiego" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Powtorka_Instrukcje_Warunkowe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,38 +255,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zad4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Powtorka_Petle.Zad4" />
+    <configuration name="zadanie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Powtorka_Instrukcje_Warunkowe.zadanie" />
       <module name="PowtorkaWszystkiego" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Powtorka_Petle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Zad6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Powtorka_Metody.Zad6" />
-      <module name="PowtorkaWszystkiego" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Powtorka_Metody.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Zad9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Powtorka_Petle.Zad9" />
-      <module name="PowtorkaWszystkiego" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Powtorka_Petle.*" />
+          <option name="PATTERN" value="Powtorka_Instrukcje_Warunkowe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -328,19 +269,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Zad9" />
-      <item itemvalue="Application.Zad4" />
-      <item itemvalue="Application.Zad6" />
       <item itemvalue="Application.Zad3" />
       <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.zadanie" />
+      <item itemvalue="Application.Zad14" />
+      <item itemvalue="Application.Zad17" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zad17" />
+        <item itemvalue="Application.Zad14" />
+        <item itemvalue="Application.zadanie" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Zad3" />
-        <item itemvalue="Application.Zad6" />
-        <item itemvalue="Application.Zad4" />
-        <item itemvalue="Application.Zad9" />
       </list>
     </recent_temporary>
   </component>
@@ -379,18 +320,22 @@
       <workItem from="1554195389469" duration="747000" />
       <workItem from="1554201857846" duration="592000" />
       <workItem from="1555432469770" duration="712000" />
-      <workItem from="1557086139986" duration="256000" />
+      <workItem from="1557086139986" duration="529000" />
+      <workItem from="1557648280522" duration="32000" />
+      <workItem from="1557684946147" duration="3091000" />
+      <workItem from="1558352015755" duration="639000" />
+      <workItem from="1558374862778" duration="1290000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82855000" />
+    <option name="totallyTimeSpent" value="88180000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18993288" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19932885" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -399,7 +344,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.203966" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32152975" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -438,69 +383,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Powtorka_Metody/Zad16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Powtorka_String/Reverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Powtorka_Instrukcje_Warunkowe/Zad1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Powtorka_Instrukcje_Warunkowe/Zad2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Powtorka_Instrukcje_Warunkowe/Zad3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Powtorka_Instrukcje_Warunkowe/Zad4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Powtorka_Instrukcje_Warunkowe/Zad5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Powtorka_Instrukcje_Warunkowe/Zad6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Powtorka_Instrukcje_Warunkowe/Zad7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Powtorka_Instrukcje_Warunkowe/Zad8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
@@ -522,13 +404,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Powtorka_Instrukcje_Warunkowe/Zad11.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Powtorka_Instrukcje_Warunkowe/Zad12.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
@@ -540,13 +415,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Powtorka_Instrukcje_Warunkowe/Zad14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -617,34 +485,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Powtorka_Petle/dd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Powtorka_Petle/Zad1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Powtorka_Petle/Zad3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Powtorka_Petle/Zad6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -725,6 +565,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Powtorka_Petle/Zad2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Powtorka_Petle/Zad7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -740,13 +587,6 @@
             <element signature="e#447#448#0" expanded="true" />
             <element signature="e#493#494#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Powtorka_Petle/Zad12.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -771,34 +611,134 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Powtorka_Metody/Zad1.java">
+    <entry file="file://$PROJECT_DIR$/src/Powtorka_Petle/Zad12.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Powtorka_Petle/Zad2.java">
+    <entry file="file://$PROJECT_DIR$/src/Codility/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Powtorka_Metody/Zad7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Powtorka_Metody/Zad9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Powtorka_Metody/Zad3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="30" />
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Codility/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/Powtorka_Petle/Zad6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+        <state relative-caret-position="187">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Powtorka_Instrukcje_Warunkowe/Zad14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Powtorka_Instrukcje_Warunkowe/Zad5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Powtorka_Instrukcje_Warunkowe/Zad11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Powtorka_Petle/Zad3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Powtorka_Instrukcje_Warunkowe/zadanie.java" />
+    <entry file="file://$PROJECT_DIR$/src/Powtorka_Metody/Zad14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Powtorka_Metody/Zad2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Powtorka_Metody/Zad1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="33" selection-start-line="28" selection-start-column="33" selection-end-line="28" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Powtorka_Metody/Zad5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="28" column="66" selection-start-line="28" selection-start-column="66" selection-end-line="28" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Powtorka_Petle/Zad1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Powtorka_Petle/dd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Powtorka_Instrukcje_Warunkowe/Zad1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Powtorka_Instrukcje_Warunkowe/Zad17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
         </state>
       </provider>
     </entry>
