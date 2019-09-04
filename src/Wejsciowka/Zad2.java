@@ -9,15 +9,17 @@ wyraz i wypisuje wyraz w odwrotnej kolejności
 public class Zad2 {
     public static void main(String[] args) {
 
-
+        System.out.println("type word");
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Podaj wyraz");
+        String word = scanner.nextLine().toLowerCase();
 
-        String wyraz = scanner.nextLine().toLowerCase();
+        StringBuilder reverse = new StringBuilder(word).reverse();
 
-        StringBuilder odwrocony = new StringBuilder(wyraz).reverse();
-        System.out.println(odwrocony);
+        System.out.println(reverse);
 
+        for (int i = 0; i <100000 ; i++) {
+            System.out.println(reverse);
+        }
+        }
     }
-}

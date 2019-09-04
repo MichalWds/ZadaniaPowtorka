@@ -8,22 +8,20 @@ tekstu i wypisuje wszystkie litery z (małe i duże).
  */
 public class Zad3 {
     public static void main(String[] args) {
-
-
+        System.out.println("type word");
         Scanner scanner = new Scanner(System.in);
-        System.out.println("podaj zdanie");
-    String zdanie = scanner.nextLine().toLowerCase();
-StringBuilder stringBuilder = new StringBuilder(zdanie);
 
-        for (int i = 0; i <zdanie.length() ; i++) {
-            if (zdanie.charAt(i) == 'z') {
-                System.out.println(zdanie.charAt(i));
+        String word = scanner.nextLine();
 
+        for (int i = 0; i < word.length(); i++) {
+
+            if (word.charAt(i) == 'z' || word.charAt(i) == 'Z') {
+                System.out.print(word.charAt(i));
             }
         }
-        }
-
-
-
     }
+}
+
+
+
 
